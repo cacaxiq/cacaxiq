@@ -5,3 +5,12 @@ date:   12-12-2017 00:28:25 -0200
 categories: mapa
 ---
 
+Olá senhores!
+
+Meu nome é Carlos Henrique. Sou um developer Xamarin e quero compartilhar com a comunidade os desafios que aparecem no dia-a-dia do meu trabalho.
+
+Isso não é uma diário!!!
+
+Esse blog vai publicar pequenos posts com um problema e a solução de alguma situação pela qual outras pessoas podem passar durante o desenvolvimento de apps com Xamarin.
+
+Por Carlos Henrique.
