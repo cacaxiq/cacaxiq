@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[About.me]: https://about.me/carloshrgabriel
+[About.me](https://about.me/carloshrgabriel)
 
 Carlos Henrique Rocha Gabriel
 
