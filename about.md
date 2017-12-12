@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 Carlos Henrique Rocha Gabriel
+
 carloshenriquerg@gmail.com
 
 Developer Xamarin Sênior no Grupo Mult em Belo Horizonte/MG.

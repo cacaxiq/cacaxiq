@@ -24,6 +24,7 @@ twitter_username: chrochagabriel
 github_username:  cacaxiq
 
 # Build settings
+paginator: 5
 markdown: kramdown
 theme: minima
 plugins:
