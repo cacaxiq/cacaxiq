@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-permalink: /about.me/carloshrgabriel
+permalink: /../about.me/carloshrgabriel
 ---
